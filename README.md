@@ -38,4 +38,4 @@ MIND-small (Microsoft News Dataset), released under the Microsoft Research Licen
 
 ## Contributors
 
-Bingcheng (Bensen) Liu (direction, data pipeline, evaluation framework, hybrid design) · Wenqi Hao · Zijie Cai · Zeyu Ma · Anthony (TODO-CONFIRM surname) — content, collaborative and hybrid method variants, user study, presentation
+Bingcheng (Bensen) Liu · Wenqi Hao · Anthony Huang · Zijie Cai · Zeyu Ma
