@@ -38,4 +38,4 @@ MIND-small (Microsoft News Dataset), released under the Microsoft Research Licen
 
 ## Contributors
 
-Bingcheng (Benson) Liu · Wenqi Hao · Anthony Huang · Zijie Cai · Zeyu Ma
+Bingcheng Liu · Wenqi Hao · Anthony Huang · Zijie Cai · Zeyu Ma
